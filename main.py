@@ -1,0 +1,3 @@
+import Kmeans
+
+Kmeans.showscatter()
